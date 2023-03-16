@@ -1,0 +1,15 @@
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/bin/Debug/net7.0/Ice Task 1 C sharp
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/bin/Debug/net7.0/Ice Task 1 C sharp.deps.json
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/bin/Debug/net7.0/Ice Task 1 C sharp.runtimeconfig.json
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/bin/Debug/net7.0/Ice Task 1 C sharp.dll
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/bin/Debug/net7.0/Ice Task 1 C sharp.pdb
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/obj/Debug/net7.0/Ice Task 1 C sharp.csproj.AssemblyReference.cache
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/obj/Debug/net7.0/Ice Task 1 C sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/obj/Debug/net7.0/Ice Task 1 C sharp.AssemblyInfoInputs.cache
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/obj/Debug/net7.0/Ice Task 1 C sharp.AssemblyInfo.cs
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/obj/Debug/net7.0/Ice Task 1 C sharp.csproj.CoreCompileInputs.cache
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/obj/Debug/net7.0/Ice Task 1 C sharp.dll
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/obj/Debug/net7.0/refint/Ice Task 1 C sharp.dll
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/obj/Debug/net7.0/Ice Task 1 C sharp.pdb
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/obj/Debug/net7.0/Ice Task 1 C sharp.genruntimeconfig.cache
+/Users/givenmaphiri/Projects/Ice Task 1 C sharp/Ice Task 1 C sharp/obj/Debug/net7.0/ref/Ice Task 1 C sharp.dll
